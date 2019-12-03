@@ -12,6 +12,7 @@ public class Math{
     }
 
     public int sub(int first, int second ){
+        System.out.print("My math");
         return first - second;
     }
 }
